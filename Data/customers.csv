@@ -1,0 +1,151 @@
+customer_id,signup_date,region,acquisition_channel
+C1000,2025-05-11,West,paid social
+C1001,2026-03-15,East,Paid Social
+C1002,2026-01-20,South,Email
+C1003,2025-10-15,South,email
+C1004,2025-10-12,North,Referral
+C1005,2026-04-22,South,Email
+C1006,2025-05-09,West,Paid Social
+C1007,2026-02-08,South,Referral
+C1008,2025-06-30,North,Organic Search
+C1009,2025-05-13,East,Organic Search
+C1010,2025-11-23,West,Organic Search
+C1011,2026-06-14,West,Referral
+C1012,2026-02-26,South,Paid Social
+C1013,2026-03-09,South,Organic Search
+C1014,2026-02-17,East,Paid Social
+C1015,2026-03-20,North,Organic search
+C1016,2025-11-17,South,Email
+C1017,2025-05-28,North,Paid Social
+C1018,2026-04-13,West,Paid Social
+C1019,2025-10-20,East,Paid Social
+C1020,2025-11-12,West,email
+C1021,2025-09-14,West,Paid Social
+C1022,2025-06-22,West,Organic Search
+C1023,2026-05-23,North,Organic Search
+C1024,2026-03-18,West,direct
+C1025,2026-01-15,North,Direct
+C1026,2025-09-29,South,Email
+C1027,2026-04-06,East,Organic Search
+C1028,2025-12-02,South,Direct
+C1029,2025-10-17,North,Referral
+C1030,2025-10-20,North,Referral
+C1031,2025-07-12,West,Paid Social
+C1032,2025-05-12,South,Organic Search
+C1033,2025-12-06,South,Organic Search
+C1034,2026-05-05,West,Direct
+C1035,2025-04-29,North,Paid Social
+C1036,2026-04-22,West,Organic Search
+C1037,2026-04-08,West,Paid Social
+C1038,2025-08-03,East,Email
+C1039,2026-01-10,North,Organic Search
+C1040,2025-06-14,North,Direct
+C1041,2026-03-08,South,Referral
+C1042,2026-02-10,East,Referral
+C1043,2025-09-07,North,Paid Social
+C1044,2025-05-01,South,Email
+C1045,2026-06-11,North,Email
+C1046,2025-10-18,East,Email
+C1047,2026-05-07,,Organic Search
+C1048,2026-01-31,East,Paid Social
+C1049,2026-03-17,North,Organic Search
+C1050,2026-03-08,North,Paid Social
+C1051,2025-06-27,North,Paid Social
+C1052,2025-09-11,West,Organic Search
+C1053,2025-10-28,North,Organic Search
+C1054,2025-11-11,South,Email
+C1055,2025-04-20,East,Organic Search
+C1056,2025-12-02,East,Direct
+C1057,2025-06-09,East,Email
+C1058,2026-03-01,West,Paid Social
+C1059,2026-02-02,South,Email
+C1060,2026-05-21,West,Organic Search
+C1061,2026-03-02,South,direct
+C1062,2025-09-12,West,Paid Social
+C1063,2026-06-10,East,Referral
+C1064,2025-10-02,East,Organic Search
+C1065,2025-08-25,West,Paid Social
+C1066,2026-05-13,West,Paid Social
+C1067,2025-09-14,,direct
+C1068,2025-05-05,,Email
+C1069,2025-10-29,North,Paid Social
+C1070,2026-03-25,South,Organic Search
+C1071,2025-06-25,North,Paid Social
+C1072,2025-10-26,West,Paid Social
+C1073,2025-05-29,,Paid Social
+C1074,2026-02-03,North,Organic Search
+C1075,2025-11-01,North,Referral
+C1076,2025-08-27,East,direct
+C1077,2025-07-12,East,Organic Search
+C1078,2025-12-11,,Email
+C1079,2026-01-27,South,Organic Search
+C1080,2026-05-29,South,Email
+C1081,2025-10-14,North,PAID SOCIAL
+C1082,2025-06-12,North,Email
+C1083,2026-04-10,South,Referral
+C1084,2026-01-09,West,Referral
+C1085,2026-02-10,East,Organic Search
+C1086,2025-05-14,West,Direct
+C1087,2025-08-19,North,Organic Search
+C1088,2026-03-12,North,Organic search
+C1089,2026-04-10,West,email
+C1090,2025-10-13,North,Paid Social
+C1091,2026-03-29,North,Referral
+C1092,2026-04-14,South,Referral
+C1093,2025-09-22,West,Paid Social
+C1094,2026-05-10,East,Direct
+C1095,2025-08-08,North,Paid Social
+C1096,2025-07-17,West,Paid Social
+C1097,2026-02-02,West,Organic Search
+C1098,2026-01-12,West,Direct
+C1099,2025-06-02,West,Organic Search
+C1100,2026-04-10,North,Organic Search
+C1101,2025-06-29,West,Paid Social
+C1102,2026-03-29,South,Direct
+C1103,2025-04-04,West,direct
+C1104,2026-03-25,East,Referral
+C1105,2026-03-21,West,Direct
+C1106,2026-03-18,East,Direct
+C1107,2026-01-25,East,Paid Social
+C1108,2025-10-30,East,Paid social 
+C1109,2026-02-12,West,Referral
+C1110,2025-08-03,,Email
+C1111,2026-03-18,North,Paid Social
+C1112,2025-12-07,West,Organic Search
+C1113,2025-10-24,East,Referral
+C1114,2025-11-14,South,Organic Search
+C1115,2025-12-12,East,Direct
+C1116,2025-04-17,West,Organic Search
+C1117,2025-06-02,West,Organic Search
+C1118,2025-07-20,West,referral 
+C1119,2025-05-22,South,Organic Search
+C1120,2025-10-15,West,Organic Search
+C1121,2026-01-26,,Email
+C1122,2026-01-20,East,Direct
+C1123,2025-10-29,East,Organic search
+C1124,2026-04-20,North,Paid Social
+C1125,2025-12-11,South,Referral
+C1126,2025-05-06,,Direct
+C1127,2026-03-11,North,PAID SOCIAL
+C1128,2025-12-15,South,Organic Search
+C1129,2026-01-11,South,Organic Search
+C1130,2025-12-11,North,Organic Search
+C1131,2025-12-06,South,Organic Search
+C1132,2025-05-11,East,Email
+C1133,2025-12-08,North,Organic Search
+C1134,2026-03-24,South,Paid Social
+C1135,2025-08-15,South,Email
+C1136,2025-12-28,East,Email
+C1137,2025-04-14,South,Organic Search
+C1138,2025-09-04,East,Referral
+C1139,2025-10-14,South,Referral
+C1140,2026-06-17,South,Referral
+C1141,2025-07-06,South,Organic Search
+C1142,2025-08-03,,Organic Search
+C1143,2025-10-01,East,direct
+C1144,2026-06-21,North,Paid Social
+C1145,2026-04-20,South,Paid Social
+C1146,2025-04-16,West,Paid Social
+C1147,2025-07-15,West,email
+C1148,2026-04-05,East,Direct
+C1149,2025-04-27,West,Paid Social
